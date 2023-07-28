@@ -1,0 +1,35 @@
+
+
+.numeros {
+    width: 600px;
+    height: 600px;
+    border-style:solid;
+    border-color: black;
+    display: flex;
+    position:fixed;
+    top: 0;
+    right: 0;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content:end;
+    
+} 
+
+#verde {
+    background-color: green;
+    width: 250px;
+    height: 200px;
+    font-size: 20px;
+}
+#rojo {
+    background-color: red;
+    width: 250px;
+    height: 200px;
+    font-size: 20px;
+}
+#azul {
+    background-color: blue;
+    width: 250px;
+    height: 200px;
+    font-size: 20px;
+}
